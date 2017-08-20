@@ -250,7 +250,7 @@
       "class": "",
       "Datasource": {
         "file": "layers/srtm/komplett_hill.tiff",
-	"type" "gdal"
+	"type": "gdal"
       },
       "srs-name": "WGS84",
       "srs": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs",
